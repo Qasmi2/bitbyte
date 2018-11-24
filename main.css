@@ -22,3 +22,14 @@ a.fa.social-icons {
         display:none !important;
     }
 }
+
+
+
+/* --------second navbar -----------*/
+.dropdown-menu.show {
+    position:absolute !important;
+}
+.dropdown-menu {
+    top:120% !important;
+    left:-35px !important;
+}
